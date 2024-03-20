@@ -31,9 +31,13 @@ With visual enhancements immerse yourself in a world of breathtaking graphics an
 | Mod Name                     | Author          | 1.16.5       | 1.17.1       | 1.18.2       | 1.19.2       | 1.20.1       | Description                                   |
 |------------------------------|-----------------|--------------|--------------|--------------|--------------|--------------|-----------------------------------------------|
 | Better Ping Display          | Quintinity      | -            | -            | -            | -            | ✅           | Displaying each player's ping in the player list as a number.            |
+| Better Third Person          | Socolio         | -            | -            | -            | -            | ✅           | Independent rotation of the camera in a third person view.  |
+| Blur                         | Motschen        | -            | -            | -            | -            | ✅           | Adds a Gaussian blur shader to the background of all GUIs   |
 | Bobby                        | Johni0702       | -            | -            | -            | -            | ✅           | Allows for render distances greater than the server's view-distance setting.        |
+| Chat Heads                   | dzwdz           | -            | -            | -            | -            | ✅           | Adds player heads next to chat messages   |
 | Clean F3                     | tyrannus        | -            | -            | -            | -            | ✅           | Improves the appearance of the debug screen.        |
 | Continuity                   | Pepper_Bell     | -            | -            | -            | -            | ✅           | Most efficient connected textures experience possible.    |
+| Controlling                  | Jaredlll08      | -            | -            | -            | -            | ✅           | Adds the ability to search for keybinds      |
 | e4mc                         | skyegreen       | -            | -            | -            | -            | ✅           | Open your LAN server to the public, easily and quickly.                 |
 | Fast IP Ping                 | Fallen_Breath   | -            | -            | -            | -            | ✅           | Improves IP ping functionality in Minecraft. |
 | Fastload                     | StockiesLad     | -            | -            | -            | -            | ✅           | Changes some crucial parts of world loading to speed it up.         |
