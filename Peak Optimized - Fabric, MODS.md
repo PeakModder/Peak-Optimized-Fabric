@@ -8,25 +8,6 @@ But it's not just about performance—our modpack also includes utilities that a
 
 With visual enhancements immerse yourself in a world of breathtaking graphics and lighting effects, transforming your Minecraft world into a vibrant and immersive environment.
 
-# Performance Mods
-| Mod Name                          | Author Name       | 1.16.5 coming soon | 1.17.1 coming soon | 1.18.2 coming soon | 1.19.2 coming soon | 1.20.1 | Description                                                |
-|-----------------------------------|-------------------|--------|--------|--------|--------|--------|------------------------------------------------------------------------------------------------------------|
-| Cull Less Leaves                  | XanderIsDev       | -      | -      | -      | -      | ✅     | Skips rendering of inner leaf layers, improving performance.                                              |
-| Dynamic FPS                       | juliand665        | -      | -      | -      | -      | ✅     | Reduce resource usage while Minecraft is in the background or idle.                                       |
-| Enhanced Block Entities           | FoundationGames   | -      | -      | -      | -      | ✅     | Makes some block entities use baked block models rather than laggy entity models.                         |
-| Entity Culling                    | tr7zw             | -      | -      | -      | -      | ✅     | Skip rendering Block/Entities that are not visible.                                                       |
-| FerriteCore                       | malte0811         | -      | -      | -      | -      | ✅     | Reduces the memory usage of Minecraft in a few different ways.                                            |
-| Iris Shaders                      | coderbot          | -      | -      | -      | -      | ✅     | Adds shaderpack support with performance tweaks.                                                          |
-| Indium                            | comp500           | -      | -      | -      | -      | ✅     | Indium is an addon for the rendering optimisation mod Sodium.                                             |
-| ImmediatelyFast                   | RaphiMC           | -      | -      | -      | -      | ✅     | Improves the immediate mode rendering performance of the client.                                          |
-| Krypton                           | tuxed             | -      | -      | -      | -      | ✅     | Attempts to optimize the Minecraft networking stack.                                                      |
-| LazyDFU                           | tuxed             | -      | -      | -      | -      | ✅     | Defers unnecessary initialization work so that it is only performed if required.                          |
-| Lithium                           | jellysquid3_      | -      | -      | -      | -      | ✅     | improves a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior.    |
-| ModernFix                         | embeddedt         | -      | -      | -      | -      | ✅     | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs.                      |
-| Particle Core                     | fzzyhmstrs        | -      | -      | -      | -      | ✅     | Doesn't render particles you can't see.                                                                   |
-| Sodium                            | jellysquid3_      | -      | -      | -      | -      | ✅     | Improves rendering performance while fixing some graphical issues.                                        |
-| Starlight                         | Spottedstar       | -      | -      | -      | -      | ✅     | Rewrites the light engine to fix lighting performance and lighting errors.                                |
-
 # Quality of Life Mods
 | Mod Name                     | Author          | 1.16.5       | 1.17.1       | 1.18.2       | 1.19.2       | 1.20.1       | Description                                   |
 |------------------------------|-----------------|--------------|--------------|--------------|--------------|--------------|-----------------------------------------------|
