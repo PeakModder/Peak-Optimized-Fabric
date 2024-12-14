@@ -7,7 +7,7 @@ Here's the updated list of mods for your Peak Optimized Modpack, without the des
 1. **[Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling)**  
    - **Author:** tr7zw
 
-2. **[ETF] Entity Texture Features - [Fabric & Forge](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features)**  
+2. **[ETF] Entity Texture Features - [Fabric & Forge](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)**  
    - **Author:** traben_0
 
 3. **[Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables)**  
