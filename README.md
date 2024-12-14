@@ -11,14 +11,14 @@ Welcome to the Peak Optimized Modpack! This modpack is dedicated to enhancing yo
 
 ## Installation
 
-1. Download and install one of these loaders, the [Curseforge](https://www.curseforge.com/download/app) or [Modrinth](https://modrinth.com/app).
+1. Download and install one of these loaders, the [Curseforge](https://www.curseforge.com/minecraft/modpacks/peakoptimized) or [Modrinth](https://modrinth.com/modpack/peakoptimized).
 2. Inside the loader simply search the modpack name "Peak Optimized" and click Install.
 3. When installation is completed you can change you settings how every you want and click play/open.
 4. Minecraft launcher should open and then click Play!
 
 ## Contributing
 
-Contributions to the Peak Optimized Modpack are welcome! If you have suggestions, bug fixes, or improvements, feel free to submit a pull request or open an issue on [GitHub](https://github.com/your-modpack-repository).
+Contributions to the Peak Optimized Modpack are welcome! If you have suggestions, bug fixes, or improvements, feel free to submit a pull request or open an issue on This github page.
 
 ## License
 
