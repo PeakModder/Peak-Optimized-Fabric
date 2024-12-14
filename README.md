@@ -22,7 +22,10 @@ Contributions to the Peak Optimized Modpack are welcome! If you have suggestions
 
 ## License
 
-The Peak Optimized Modpack is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are free to use, modify, and distribute the modpack for non-commercial purposes, provided you give appropriate credit and share any modifications under the same license.
+The Peak Optimized Modpack is licensed under a custom license that allows you to freely use, modify, and distribute the modpack for non-commercial purposes, provided that:
+
+You cannot sell the modpack or claim ownership without making considerable changes.
+If you remix, transform, or build upon the modpack, you must distribute your contributions under the same license as the original and give appropriate credit.
 
 Happy gaming!
 
