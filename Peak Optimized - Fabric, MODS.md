@@ -1,8 +1,8 @@
-# Peak Optimized Modpack - Included Mods
+# Peak Optimized Modpack 1.21.1 v1.1.8 - Included Mods
 
 ## Mods List
 
-1. **[Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entity-culling)**
+1. **[Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling)**
    - **Author:** tr7zw
    - **Description:** Reduces unnecessary entity rendering to improve performance by culling entities outside of the player's view.
 
